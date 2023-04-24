@@ -1,7 +1,6 @@
 {
   "name": "nasa-project",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "install-server": "npm install --prefix server",
@@ -25,5 +24,14 @@
   "dependencies": {
     "mongoose": "^5.13.13",
     "morgan": "^1.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoukouJohn9688/nasa-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SoukouJohn9688/nasa-project/issues"
+  },
+  "homepage": "https://github.com/SoukouJohn9688/nasa-project#readme",
+  "description": ""
 }
