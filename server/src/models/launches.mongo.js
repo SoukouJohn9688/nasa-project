@@ -20,7 +20,7 @@ const launchesSchema=new mongoose.Schema({
     },
     target:{
         type:String,
-        required:true,
+       
     },
     coustomers:[String],
     upcoming:{
